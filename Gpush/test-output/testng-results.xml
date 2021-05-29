@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-29T17:20:40Z" name="Default suite" finished-at="2021-05-29T17:20:54Z" duration-ms="14171">
+    <groups>
+    </groups>
+    <test started-at="2021-05-29T17:20:40Z" name="Default test" finished-at="2021-05-29T17:20:54Z" duration-ms="14171">
+      <class name="com.gothub.com.TestJenkins">
+        <test-method signature="run()[pri:0, instance:com.gothub.com.TestJenkins@333dd51e]" started-at="2021-05-29T17:20:40Z" name="run" finished-at="2021-05-29T17:20:54Z" duration-ms="14032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.gothub.com.TestJenkins -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
